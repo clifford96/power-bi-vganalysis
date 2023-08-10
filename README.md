@@ -14,7 +14,7 @@ The aim of this Power BI dashboard is to understand the sales of video games and
 3. Determining the best selling games, platforms and genres in each region.
 
 ## Dashboard Preview
-![PowerBI Dashboard](![vg](https://github.com/clifford96/power-bi-vganalysis/assets/51234378/a2bd8fb6-7006-4e8d-83f4-c42e32dde6ef)
+![vg](https://github.com/clifford96/power-bi-vganalysis/assets/51234378/a2bd8fb6-7006-4e8d-83f4-c42e32dde6ef)
 
 ## Key Deliverables
 1. NA sales has the highest contribution followed by EU, JP and Others.
